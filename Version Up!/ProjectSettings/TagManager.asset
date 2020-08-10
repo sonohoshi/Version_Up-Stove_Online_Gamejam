@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftBlock
+  - RightBlock
+  - Block
+  - Ball
+  - Map
+  - TurnPos
+  - Portal
+  - Coin
+  - Ghost
+  - PrisonEnter
+  - Ground
+  - KeyItem
+  - Item
+  - BelowBlock
+  - alphabet
+  - enemy
+  - v
+  - e
+  - r
+  - s
+  - i
+  - o
+  - n
+  - u
+  - p
+  - search
+  - player
+  - Icon
+  - Map_Top
+  - Map_Bottom
+  - Map_Left
+  - Map_Right
+  - PlayerBullet
+  - EnemyBullet
+  - StartBTN
+  - clock
+  - word
+  - door
+  - disposal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - IdenticalBlock
+  - EdgeWall
+  - Ball
+  - Brick
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
